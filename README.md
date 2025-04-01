@@ -10,6 +10,6 @@ def count_substring_non_overlapping(s1, s2):
     return count
 
 # Example usage:
-s1 = "ababababa"
+s1 = "ababababaaba"
 s2 = "aba"
 print(count_substring_non_overlapping(s1, s2))  # Output: 3
